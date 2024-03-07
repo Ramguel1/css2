@@ -20,65 +20,82 @@ h1{
 }
 #family{
     font-family: "Permanent Marker";
-    color=black
+   background: #FAB;
 }
 #family2{
     font-family: "indie Flower";
     font-size: 100px;
+    background: #FAB;
 }
 #osh{
     font-size: 120px;
-
+background: #FAB;
 }
 #osh:hover{
 transition: 2s all ease;
 transform: scale(1.2) rotate(360deg);
+    background: #FAB;
 }
 #estyle1{
     font-size: normal;
+    background: #FAB;
 }
 #estyle2{
     font-style: italic;
+    background: #FAB;
 }
 #estyle3{
     font-style: oblique;
+    background: #FAB;
 }
 #les{
     font-weight: bold;
+    background: #FAB;
 }
 #vic{
     font-weight: lighter;
+    background: #FAB;
 }
 #ok{
     font-weight: 400;
+    background: #FAB;
 }
 #daniel{
     text-transform: none;
+    background: #FAB;
 }
 #gabriel{
 text-transform: uppercase;
+    background: #FAB;
 }
 #q{
     text-transform: lowercase;
+    background: #FAB;
 }
 #magaly{
     text-transform: capitalize;
+    background: #FAB;
 }
 #chavez{
     text-transform: full-width;
+    background: #FAB;
 }
 #a{
     text-decoration: none;
+    background: #FAB;
 }
 #w{
     text-decoration: underline;
+    background: #FAB;
 }
 #e{
     text-decoration: overline ;
+    background: #FAB;
 
 }
 #r{
     text-decoration: line-through;
+    background: #FAB;
 
 }
 #chadou{
@@ -90,22 +107,28 @@ text-transform: uppercase;
 #texto{
     text-align: left;
     line-height: 1.0;
+    background: #FAB;
 }
 #textoo{
     text-align: right;
     line-height: 2.0;
+    background: #FAB;
 }
 #textooo{
 text-aling: center;
 line-height: 3.0;
+    background: #FAB;
 }
 #textoooo{
     text-align: justify;
     line-height: 0.5;
+    background: #FAB;
 }
 #sepa1{
     letter-spacing: 100px;
+    background: #FAB;
 }
 #ramses{
     word-spacing: 100px;
+    background: #FAB;
 }

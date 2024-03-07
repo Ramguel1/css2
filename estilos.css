@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#color1:hover{
+transform: scale(1.1) translate();
+letter-spacing: 2px;
+background: linear-gradient(0deg, yellow 25%, red 50%, yellow 90%);
+background-clip: text;
+color: transparent;
+}
+h1{
+    color: rgb(204, 226, 204);
+}
+.texto{
+    background: linear-gradient(pink 45%, blue);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+#family{
+    font-family: "Permanent Marker";
+}
+#family2{
+    font-family: "indie Flower";
+    font-size: 100px;
+}
+#osh{
+    font-size: 120px;
+
+}
+#osh:hover{
+transition: 2s all ease;
+transform: scale(1.2) rotate(360deg);
+}
+#estyle1{
+    font-size: normal;
+}
+#estyle2{
+    font-style: italic;
+}
+#estyle3{
+    font-style: oblique;
+}
+#les{
+    font-weight: bold;
+}
+#vic{
+    font-weight: lighter;
+}
+#ok{
+    font-weight: 400;
+}
+#daniel{
+    text-transform: none;
+}
+#gabriel{
+text-transform: uppercase;
+}
+#q{
+    text-transform: lowercase;
+}
+#magaly{
+    text-transform: capitalize;
+}
+#chavez{
+    text-transform: full-width;
+}
+#a{
+    text-decoration: none;
+}
+#w{
+    text-decoration: underline;
+}
+#e{
+    text-decoration: overline ;
+
+}
+#r{
+    text-decoration: line-through;
+
+}
+#chadou{
+    text-shadow: 3 3 2px rgb(255, 158, 30);
+}
+#chadou2{
+    text-shadow: 3 3 2px rgb(85, 1, 1);
+}
+#texto{
+    text-align: left;
+    line-height: 1.0;
+}
+#textoo{
+    text-align: right;
+    line-height: 2.0;
+}
+#textooo{
+text-aling: center;
+line-height: 3.0;
+}
+#textoooo{
+    text-align: justify;
+    line-height: 0.5;
+}
+#sepa1{
+    letter-spacing: 100px;
+}
+#ramses{
+    word-spacing: 100px;
+}

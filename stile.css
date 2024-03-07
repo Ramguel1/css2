@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+  }
+  #c1{
+      width: 200em;
+    height: 100em;
+    background: red;
+    border: 10px ridge black;
+    box-shadow: 0px 0px 30px black;
+    margin: 100px;
+    padding: 50px;
+  }
+  #c2{
+      width: 50ex;
+    height: 250ex;
+    background: red;
+    border: 10px ridge black;
+    box-shadow: 0px 0px 30px black;
+    margin: 100px;
+    padding: 50px;
+  }
+  #c3{
+      width: 120ch;
+    height: 300ch;
+    background: red;
+    border: 10px ridge black;
+    box-shadow: 0px 0px 30px black;
+    margin: 100px;
+    padding: 50px;
+  }
+  #c4{
+      width: 50rem;
+    height: 150rem;
+    background: red;
+    border: 10px ridge black;
+    box-shadow: 0px 0px 30px black;
+    margin: 100px;
+    padding: 50px;
+  }
+  #c5{
+      width: 50%;
+    height: 60%;
+    background: red;
+    border: 10px ridge black;
+    box-shadow: 0px 0px 30px black;
+    margin: 100px;
+    padding: 50px;
+  }
+  #c6{
+      width: 50px;
+    height: 30px;
+    background: red;
+    border: 10px ridge black;
+    box-shadow: 0px 0px 30px black;
+    margin: 100px;
+    padding: 50px;
+  }
+  #c7{
+      width: 50cm;
+    height: 60cm;
+    background: red;
+    border: 10px ridge black;
+    box-shadow: 0px 0px 30px black;
+    margin: 100px;
+    padding: 50px;
+  }
+  #c8{
+      width: 50mm;
+    height: 400mm;
+    background: red;
+    border: 10px ridge black;
+    box-shadow: 0px 0px 30px black;
+    margin: 100px;
+    padding: 50px;
+  }
+  #c8{
+      width: 40q;
+    height: 200q;
+    background: red;
+    border: 10px ridge black;
+    box-shadow: 0px 0px 30px black;
+    margin: 100px;
+    padding: 50px;
+  }
+  #c9{
+      width: 50in;
+    height: 200in;
+    background: red;
+    border: 10px ridge black;
+    box-shadow: 0px 0px 30px black;
+    margin: 100px;
+    padding: 50px;
+  }
+  #c10{
+      width: 50pc;
+    height: 200pc;
+    background: red;
+    border: 10px ridge black;
+    box-shadow: 0px 0px 30px black;
+    margin: 100px;
+    padding: 50px;
+  }
+  #c11{
+      width: 50pt;
+    height: 200pt;
+    background: red;
+    border: 10px ridge black;
+    box-shadow: 0px 0px 30px black;
+    margin: 100px;
+    padding: 50px;
+  }
